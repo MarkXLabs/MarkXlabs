@@ -65,6 +65,39 @@ At **MarkXlabs**, the vision is clear:
 
 ---
 
+# 🖥️ GitHub Desktop Setup Guide  
+
+Follow these steps to set up your project with **GitHub Desktop**:  
+
+### 🔹 1. Install GitHub Desktop  
+- Download from: [desktop.github.com](https://desktop.github.com/)  
+- Install it on your system.  
+
+### 🔹 2. Sign In  
+- Open GitHub Desktop → Sign in with your GitHub account.  
+
+### 🔹 3. Clone Repository  
+- Click **File > Clone Repository**.  
+- Choose your repo (e.g., `MarkXlabs/YourRepoName`).  
+- Select a folder on your PC where files will be saved.  
+
+### 🔹 4. Open in Code Editor  
+- Once cloned, click **Open in VS Code / PyCharm** (depending on what you use).  
+
+### 🔹 5. Make Changes  
+- Edit files (like `README.md`, code, etc.).  
+- Save them.  
+
+### 🔹 6. Commit Changes  
+- In GitHub Desktop, you’ll see the changes.  
+- Write a commit message → Click **Commit to main**.  
+
+### 🔹 7. Push to GitHub  
+- After committing, click **Push origin**.  
+- Your changes are now live on GitHub 🚀.  
+
+---
+
 <p align="center">
   <img src="https://i.ibb.co/bXwZtQH/arc-reactor.gif" width="150px"><br>
   <b>“The future is being built — one project at a time.”</b>
